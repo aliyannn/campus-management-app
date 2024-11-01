@@ -1,17 +1,16 @@
+# React + Vite
+
+---
+
+<div>
 
 <div align="center">
-  <br />
-    <a href="https://github.com/your-github-username/campus-management-app" target="_blank">
-      <img src="https://github.com/user-attachments/assets/769882e6-bae6-4932-a117-829cf34f809f" alt="Project Banner" />
-    </a>
-  <br />
+  <img src="https://img.shields.io/badge/-React.js-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react" />
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logoColor=white&logo=javascript&color=F7DF1E" alt="javascript" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+  <img src="https://img.shields.io/badge/-Open_AI-black?style=for-the-badge&logoColor=white&logo=openai&color=412991" alt="openai" />
+</div>
 
-  <div>
-    <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
-    <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextjs" />
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
-    <img src="https://img.shields.io/badge/-Open_AI-black?style=for-the-badge&logoColor=white&logo=openai&color=412991" alt="openai" />
-  </div>
 
   <h3 align="center">Campus Management App</h3>
 
@@ -32,12 +31,11 @@
 
 This Campus Management App is a dynamic front-end application aimed at enhancing campus operations and facilitating seamless interactions between students and administrators. Built with React, JavaScript, and Tailwind CSS, it features a user-friendly interface that adapts to various devices. The app employs routing and hooks to ensure smooth navigation, providing an intuitive experience for all users. With a focus on performance and maintainability, the project lays a strong foundation for future enhancements and integrations, all while prioritizing robust documentation and community engagement.
 
-
-
 ---
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
+- **Vite** (for fast development and build processes)
 - **React.js**
 - **React Routers**
 - **React Hooks**
@@ -156,13 +154,9 @@ If you encounter any issues during setup or while running the application, pleas
 
 By achieving these goals, the project aims to deliver a high-quality web application that meets user needs while remaining adaptable for future developments.
 
---- 
-
-Here’s an updated version of the **Project Goals** section that includes future goals along with the existing objectives:
-
 ---
 
-## <a name="future-goals">🎯 Future Goals</a>
+## <a name="future-improvements">🎯 Future Goals</a>
 
 **Future Goals**:
 
@@ -181,3 +175,5 @@ By achieving these goals, the project aims to deliver a high-quality web applica
 --- 
 
 Thank you for reviewing this project! I look forward to discussing how these skills can bring value to your team.
+
+---
