@@ -46,12 +46,9 @@ This Campus Management App is a full-stack application designed to streamline ca
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
-- **Next.js**: Framework for building the application with features like SSR, SSG, and API routes.
-- **TypeScript**: Ensures type safety and reduces runtime errors.
-- **MongoDB**: Serves as the database to manage campus data.
-- **ShadCN UI**: Provides a modern, accessible UI library.
-- **OpenAI**: Enhances app capabilities with AI-powered features.
-- **TailwindCSS**: Simplifies styling and ensures responsive design.
+- **React.js**
+- **JavaScript**
+- **TailwindCSS**
 
 ---
 
