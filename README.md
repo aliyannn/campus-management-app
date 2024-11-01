@@ -144,22 +144,7 @@ If you encounter any issues during setup or while running the application, pleas
 
 ---
 
-## <a name="project-goals">🔗 Project Goals</a>
-
-- **User-Friendly Interface:**: Create a seamless login flow with clear error messages and instant feedback.
-- **Scalability**: Structure code to easily incorporate additional user roles and permissions.
-- **UI/UX Design**: Implement an intuitive, accessible, and visually appealing interface.
-- **AI Integration**: Leverage OpenAI to add advanced features for students and administrators.
-
----
-
-Here’s a refined version of the **Project Goals** section with shorter, one-line points:
-
----
-
 ## <a name="project-goals">🎯 Project Goals</a>
-
-The primary goals of this project are as follows:
 
 1. **User-Friendly Interface**: Develop a responsive and intuitive UI using React and Tailwind CSS.
 
@@ -176,6 +161,28 @@ The primary goals of this project are as follows:
 7. **Community Engagement**: Encourage contributions and collaboration to enhance features and overall project quality.
 
 8. **Future Enhancements**: Lay the groundwork for future features, including state management and API integrations.
+
+By achieving these goals, the project aims to deliver a high-quality web application that meets user needs while remaining adaptable for future developments.
+
+--- 
+
+Here’s an updated version of the **Project Goals** section that includes future goals along with the existing objectives:
+
+---
+
+## <a name="future-goals">🎯 Future Goals</a>
+
+**Future Goals**:
+
+1. **Enhanced State Management**: Integrate state management solutions like Redux for improved data handling.
+
+2. **API Integrations**: Connect the application with external APIs to expand functionality and data sources.
+
+3. **Advanced User Features**: Develop user-specific features such as authentication, profiles, and personalized content.
+
+4. **Accessibility Improvements**: Ensure the application meets accessibility standards for a wider audience.
+
+5. **Mobile Optimization**: Optimize the application for mobile devices to enhance the user experience on smaller screens.
 
 By achieving these goals, the project aims to deliver a high-quality web application that meets user needs while remaining adaptable for future developments.
 
